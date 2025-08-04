@@ -1,10 +1,9 @@
-import React from 'react'
+import React from "react";
 
-const Navbar= ()=> {
+export default function Homepage() {
   return (
-    <div>
-        <h1>this is navbar</h1>
+    <div className="min-h-screen bg-white text-gray-800 font-sans">
+    
     </div>
-  )
+  );
 }
-export default Navbar

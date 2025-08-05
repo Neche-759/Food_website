@@ -8,7 +8,6 @@ import { Menu_nav } from './menu components/navbar';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Menu_nav />
     <App />
   </React.StrictMode>
 );
